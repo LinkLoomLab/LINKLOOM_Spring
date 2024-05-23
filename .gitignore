@@ -9,8 +9,8 @@
 # Log file
 *.log
 
-# XML
-root-context.xml
+# properties files
+config.properties
 
 # BlueJ files
 *.ctxt
